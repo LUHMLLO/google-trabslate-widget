@@ -1,0 +1,16 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.font-button-language {
+    display: inline-flex;
+    padding: .5rem 1rem;
+    font-size: .75rem;
+    font-weight: 400;
+    background-color: transparent;
+    outline: none !important;
+    border: solid;
+    cursor: pointer;
+}

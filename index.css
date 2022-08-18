@@ -1,0 +1,19 @@
+#google_translate_element {
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  user-select: none;
+  pointer-events: none;
+}
+
+body > div.skiptranslate {
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  user-select: none;
+  pointer-events: none;
+}
+
+body {
+  top: 0 !important;
+}
